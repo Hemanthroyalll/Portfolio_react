@@ -154,7 +154,7 @@ export const EXPERIENCES = [
     company_name: "Sparks Foundation",
     icon: sparks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2021 - Jul 2021",
     points: [
       "Mastered the core principles and practices of Python programming, leading to the efficient development and deployment of web applications.",
       "Troubleshooted and optimized pre-existing codebase,leading to a 20% increase in application performance.",
@@ -167,7 +167,7 @@ export const EXPERIENCES = [
     company_name: "Corizo",
     icon: corizo,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jun 2022 - Dec 2023",
     points: [
       "Performed extensive cleaning and preprocessing on large client datasets, ensuring data quality and readiness for analysis. ",
       "Created insightful dashboards using PowerBI andQuickSight, highlighting key data trends and metrics for client decision-making.",
@@ -180,7 +180,7 @@ export const EXPERIENCES = [
     company_name: "Dendrite ai",
     icon: dendrite,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2023 - Aug 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -193,7 +193,7 @@ export const EXPERIENCES = [
     company_name: "Houseware",
     icon: houseware,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Aug 2023 - Dec 2023",
     points: [
       "Developed and enhanced user interfaces using React JS, contributing to significant improvements in user experience and performance.",
 "Integrated RESTful APIs and employed state management techniques, ensuring seamless data flow and interaction within applications.",
@@ -208,26 +208,26 @@ export const EXPERIENCES = [
 export const TESTIMONIALS = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Hemanth proved me wrong.",
-    name: "Sara Lee",
+      "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+    name: "Hemanth Royal",
     designation: "Software Engineer",
     company: "Corizo",
     image: user1,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Hemanth does.",
-    name: "Chris Brown",
-    designation: "Employee",
-    company: "Houseware",
+      "The computer was born to solve problems that did not exist before.",
+    name: "Bill Gates",
+    designation: "Former CEO",
+    company: "Microsoft",
     image: user2,
   },
   {
     testimonial:
-      "After Hemanth optimized our website, our traffic increased by 29%. We can't thank him enough!",
-    name: "Lisa Wang",
-    designation: "Front-end Engineer",
-    company: "456 Enterprises",
+      "One of the best programming skills you can have is knowing when to walk away for a while.",
+    name: "Oscar Godson",
+    designation: "Co-founder",
+    company: "Level Up",
     image: user3,
   },
 ] as const;
@@ -282,7 +282,7 @@ export const PROJECTS = [
   {
     name: "Metaverse",
     description:
-      "The most personalised admin dashboard web application that allows enables users to choose customized themes and dark mode with different pages and variety of charts.",
+      "",
     tags: [
       {
         name: "NextJS",
@@ -304,7 +304,7 @@ export const PROJECTS = [
   {
     name: "Bank App",
     description:
-      "A Next JS Web Application that enables users to upload videos of any length and size, create accounts and connect with other people just like any other social media.",
+      "",
     tags: [
       {
         name: "nextjs",
@@ -326,7 +326,7 @@ export const PROJECTS = [
   {
     name: "Nike-Clone website",
     description:
-      "Best Cryptocurrency web application that allows users to view price, market cap and daily change in realtime for almost every cryptocurrency in the world.",
+      "",
     tags: [
       {
         name: "react",
@@ -348,7 +348,7 @@ export const PROJECTS = [
   {
     name: "Instagram Clone - React",
     description:
-      "Web application that enables you to view your nearby restaurants, hotels and attractions which can be sorted by ratings, price and much more.",
+      "",
     tags: [
       {
         name: "react",
@@ -370,7 +370,7 @@ export const PROJECTS = [
   {
     name: "Carsite",
     description:
-      "Web application that enables you to view your nearby restaurants, hotels and attractions which can be sorted by ratings, price and much more.",
+      "",
     tags: [
       {
         name: "react",
